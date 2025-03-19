@@ -1,4 +1,4 @@
-# KI-und-QA---Promp-Engineering
+# KI-und-QA---Prompt-Engineering
 
 update llama --> curl https://ollama.ai/install.sh | sh
 
